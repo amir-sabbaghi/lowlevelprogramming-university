@@ -21,7 +21,7 @@
 
 This page is for beginners who want to be low-level programmers.
 
-I'm inspired by [google-interview-university](https://github.com/jwasham/google-interview-university). I'd like to share my experience and show a roadmap to becoming a low-level programmer because I have found that these skills are not as common as they once were. In addition, many students and beginners ask me how they could become low-level programmers and Linux kernel engineers.
+I'm inspired by [google-interview-university](https://github.com/jwasham/google-interview-university). I'd like to share my experience and show a roadmap to becoming a low-level programmer, because I have found that these skills are not as common as they once were. In addition, many students and beginners ask me how they could become low-level programmers and Linux kernel engineers.
 
 This page cannot include every link/book/course. For example, this page introduces Arduino but there is not detail information about Arduino and embedded system. You should go further for yourself. You get a keyword "Arduino" on which you can start. So next step probably is googling Arduino, buying kit and **do something** for yourself, not collecting links or free books. Please remember this page is just a roadmap.
 
@@ -63,13 +63,13 @@ Let me introduce several books that I've read. They are commonly used for text b
   * The Design of the UNIX Operating System
   * Operating Systems: Internals and Design Principles by William Stallings
 
-There is infinite list of good books. I don't want to say that you should read many books. Just read one book carefully. Whenevery you learn a theory, implement simulation code of it. **Implementing one thing is better than knowing one hundread theories.**
+There is infinite list of good books. I don't want to say that you should read many books. Just read one book carefully. Whenever you learn a theory, implement simulation code of it. **Implementing one thing is better than knowing one hundread theories.**
 
 ##  <a name="Languages"></a>Languages
 
 ### <a name="Assembly"></a>Assembly
 
-Choose one between x86 or ARM. No need to know both. It doesn't matter to know assembly language. The essential is knowing the internal of CPU and computer. So you don't need to practice the assembly of the latest CPU. Select 8086 or Corex-M.
+Choose one between x86 or ARM. No need to know both. It doesn't matter to know assembly language. The essential is knowing the internal of CPU and computer. So you don't need to practice the assembly of the latest CPU. Select 8086 or Cortex-M.
 
 * [8086 assembly programming with emu8086](https://github.com/gurugio/book_assembly_8086)
   * basic concepts of CPU and computer architecture
